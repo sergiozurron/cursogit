@@ -1,1 +1,3 @@
-console.log("Logic")
+function buttonListener(){
+    alert("Button clicked");
+}
